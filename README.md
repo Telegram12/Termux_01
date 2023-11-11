@@ -1,22 +1,22 @@
 # Termux interface Shannu
 
 
-#### Shannu is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
+#### Shannu is Termux banner or interface
 
 ## [+] Installation & Usage :atom_symbol:
 ```
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/fikrado/qurxin
-cd qurxin
+git clone https://github.com/Telegram12/Termux_01.git
+cd Termux_01
 chmod +x *
 sh install.sh
 exit
 ```
 ### One command installation :octocat:
 ```
-apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
+apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/Telegram12/Termux_01.git && chmod +x * && ./install.sh
 ```
 ## screen shot
 
